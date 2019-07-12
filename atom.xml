@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yangsheepsheep.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-07-12T08:00:43.479Z</updated>
+    <title>编程改变世界</title>
+    <updated>2019-07-12T08:10:27.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yangsheepsheep.github.io"/>
     <link rel="self" href="https://yangsheepsheep.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Talk is cheap, show me the code.</subtitle>
     <logo>https://yangsheepsheep.github.io/images/avatar.png</logo>
     <icon>https://yangsheepsheep.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 编程改变世界</rights>
     <entry>
         <title type="html"><![CDATA[使用Gridea博客系统]]></title>
         <id>https://yangsheepsheep.github.io/post/shi-yong-gridea-bo-ke-xi-tong</id>
         <link href="https://yangsheepsheep.github.io/post/shi-yong-gridea-bo-ke-xi-tong">
         </link>
         <updated>2019-07-12T07:52:50.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://images.unsplash.com/photo-1562762555-a5cf3a9d8015?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1534&amp;q=80" alt=""></p>
+        <summary type="html"><![CDATA[<p>🎁Gridea真的是太amazing了！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>🎁Gridea真的是太amazing了！</p>
+<!-- more -->
+<p><img src="https://images.unsplash.com/photo-1562762555-a5cf3a9d8015?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1534&amp;q=80" alt=""></p>
 <blockquote>
 <p>照片来源: <a href="https://unsplash.com/@joncas89">Jonathan J. Castellon</a></p>
 </blockquote>
